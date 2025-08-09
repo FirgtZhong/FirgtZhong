@@ -7,7 +7,9 @@
 ## 🌟 我的小项目
 
 ### [LittlePan](https://github.com/FirgtZhong/LittlePan)
-> 这是我用 PHP 写的一个超级轻量的文件管理小系统，主要是方便自己整理文件。虽然不大，但还是挺有成就感的！
+> 这是被我改写的一个轻量的文件管理系统。
+### [LittlePan_v2](https://github.com/FirgtZhong/LittlePan_v2)
+> 这是我开始自己用 PHP 写的轻量外链网盘管理系统。
 
 ---
 
